@@ -1,3 +1,3 @@
-# Enter the path of this project
+import os
 
-ROOT_DIR = "/path/to/File-Encryptor-new"
+ROOT_DIR = os.getcwd()
