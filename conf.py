@@ -1,1 +1,3 @@
-ROOT_DIR = "/home/user/hd/File-Encryptor"
+# Enter the path of this project
+
+ROOT_DIR = "/path/to/File-Encryptor-new"
